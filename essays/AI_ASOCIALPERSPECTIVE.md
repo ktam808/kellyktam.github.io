@@ -1,19 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "The Shaping Forces of Artificial Intelligence: A Societal Perspective"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2024-01-14
+published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Artificial Intelligence (AI) 
+  - Ethics and Responsibility
+  - Future Challenges and Opportunities 
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Welcome to the era of Artificial Intelligence (AI), a game-changer that's not just a tech buzzword but a force transforming our world. In the realm of healthcare, AI works its magic, decoding complex datasets to deliver personalized treatment plans and adding a touch of precision to surgical procedures. Finance is no stranger to AI's charm, with algorithms making split-second decisions in trading and keeping a watchful eye for financial mischief. Meanwhile, education gets a makeover as AI tailors learning experiences and takes the edge off grading for both teachers and students.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+But, hold your applause, because with great power comes great responsibility. Bias in AI algorithms, seen in everything from facial recognition faux pas to hiring hiccups, demands our attention. Privacy anxieties rear their heads as AI steps into the surveillance limelight. And let's not forget the job market drama—automation's cool, but what about those left in the lurch? Reskilling initiatives, anyone?
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+As we ride the AI rollercoaster, it's vital to keep things in check. Let's talk responsible AI development. Industry, academia, and policymakers need to tango to lay down ethical guidelines. And who can forget the VIPs in this show? You! Yes, promoting AI literacy and spreading awareness are your backstage passes to shaping a future where AI contributes positively to society. Buckle up—this ride's just getting started, and it's got a lot more twists and turns ahead.
