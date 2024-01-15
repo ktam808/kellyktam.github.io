@@ -26,11 +26,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Hawaii Baptist Academy, Honolulu, HI",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2018",
+      "endDate": "2022",
       "courses": [
       ]
     }
