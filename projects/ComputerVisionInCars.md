@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/AI4ALL_LOGO.jpg
 title: "AI4ALL - Computer Vision in Cars"
 date: 2022-12-02
 published: true
