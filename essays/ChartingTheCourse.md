@@ -20,3 +20,5 @@ As I envision my future in software engineering, I am keen on honing a diverse s
 In terms of experiences, I am enthusiastic about engaging in collaborative projects that mirror real-world scenarios. Working in interdisciplinary teams allows for a holistic perspective on problem-solving, fostering not only technical proficiency but also effective communication and teamwork. I aspire to immerse myself in projects that demand creative thinking, pushing the boundaries of what technology can achieve while ensuring a positive impact on end-users.
 
 In essence, my journey in software engineering is propelled by a fervor for innovation, a commitment to continuous learning, and a desire to contribute meaningfully to the ever-evolving landscape of technology.
+
+*Please note that I used ChatGPT to improve grammar and spelling in this document.*
