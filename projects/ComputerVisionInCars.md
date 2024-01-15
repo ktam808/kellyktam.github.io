@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AI4ALL_LOGO.jpg
+image: img/ai4allorg_logo.jpg
 title: "AI4ALL - Computer Vision in Cars"
 date: 2022-12-02
 published: true
