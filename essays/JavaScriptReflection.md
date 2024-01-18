@@ -13,6 +13,7 @@ labels:
 
 <img align='left' src='https://images.pixexid.com/a-hiker-standing-on-a-mountain-z9obelfg.jpeg' width='800' HSPACE='20' VSPACE='20'> 
 
+
 ## Introduction
 
 In the ever-evolving realm of web development, JavaScript stands tall as a cornerstone language, wielding unparalleled influence. As I embarked on my journey into the intricate world of JavaScript, I found myself navigating a landscape that seamlessly blends versatility with challenges. from the initial encounters as a programming novice to the revelations brought forth by ES6, all the way to the crucible of athletic software engineering through practice WODs, my journey as a novice Javascript programmer started to become enjoyable. 
