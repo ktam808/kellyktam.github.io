@@ -11,7 +11,7 @@ labels:
   - Challenges
 ---
 
-<img align='left' src='https://images.pixexid.com/a-hiker-standing-on-a-mountain-z9obelfg.jpeg' width='800' HSPACE='20' VSPACE='50'> 
+<img align='center' src='https://images.pixexid.com/a-hiker-standing-on-a-mountain-z9obelfg.jpeg' width='800' HSPACE='20' VSPACE='20'> 
 
 
 ## Introduction
