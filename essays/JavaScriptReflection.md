@@ -11,7 +11,7 @@ labels:
   - Challenges
 ---
 
-![](https://images.pixexid.com/a-person-standing-on-a-mountain-67boxri9.jpeg|width=100)
+<img src='https://images.pixexid.com/a-person-standing-on-a-mountain-67boxri9.jpeg' width='1224'>
 
 ## Introduction
 
