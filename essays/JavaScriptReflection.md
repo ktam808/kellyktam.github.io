@@ -11,7 +11,9 @@ labels:
   - Challenges
 ---
 
-<img src='https://images.pixexid.com/a-person-standing-on-a-mountain-67boxri9.jpeg' width='306'> ## Introduction
+<img src='https://images.pixexid.com/a-person-standing-on-a-mountain-67boxri9.jpeg' width='306'> 
+
+## Introduction
 
 In the ever-evolving realm of web development, JavaScript stands tall as a cornerstone language, wielding unparalleled influence. As I embarked on my journey into the intricate world of JavaScript, I found myself navigating a landscape that seamlessly blends versatility with challenges. from the initial encounters as a programming novice to the revelations brought forth by ES6, all the way to the crucible of athletic software engineering through practice WODs, my journey as a novice Javascript programmer started to become enjoyable. 
 
