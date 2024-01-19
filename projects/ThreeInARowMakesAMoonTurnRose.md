@@ -21,7 +21,6 @@ Over an hour later, the Penumbral Eclipse transitioned into the Umbra phase, cau
 
 <br/>
 <br/>
-<br/>
 
 ## Scientific Explanation 
 <img align='left' src='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nasa-red-1667652223.jfif?resize=660:*' width='300' HSPACE='25' VSPACE='25'>
