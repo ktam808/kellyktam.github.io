@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/EntangledMagazine.jpg
+image: img/LetsTalkAboutSex.png
 title: "Let's Talk about Sex Exhibition"
 date: 2023
 published: true
