@@ -14,6 +14,7 @@ summary: "A scientific study and report on the beautiful cycle of the moon and i
 ---
 
 <img align='left' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/IMG_4203.jpeg' width='300' HSPACE='25' VSPACE='25'>
+
 ## My Experience
 Equipped with a camera, telescope, mat, and snacks, I patiently observed the moon's changing cycles throughout the night. The fortunate dispersal of clouds before the Penumbral Eclipse, starting at 10:02 on November 8th, allowed for a clear sky conducive to photography. The moon's surface exhibited a slight dimness, signifying its traversal through Earth's penumbra, the faint outer layer of the planet's shadow. My brothers telescope proved invaluable in zooming into the intricate details of this initial phase.
 
