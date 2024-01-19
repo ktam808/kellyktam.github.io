@@ -18,6 +18,7 @@ summary: "A scientific study and report on the beautiful cycle of the moon and i
 Equipped with a camera, telescope, mat, and snacks, I patiently observed the moon's changing cycles throughout the night. The fortunate dispersal of clouds before the Penumbral Eclipse, starting at 10:02 on November 8th, allowed for a clear sky conducive to photography. The moon's surface exhibited a slight dimness, signifying its traversal through Earth's penumbra, the faint outer layer of the planet's shadow. My brothers telescope proved invaluable in zooming into the intricate details of this initial phase. Over an hour later, the Penumbral Eclipse transitioned into the Umbra phase, causing a partial lunar eclipse. The moon, once pearly white, passed through parts of Earth's umbra, the full shadow, resulting from the imperfect alignment of the sun, moon, and earth. At approximately 12:18, the full eclipse unfolded, transforming the moon's color due to Rayleigh scattering.  
 
 <br/>
+<br/>
 
 ## Scientific Explanation 
 <img align='left' src='https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nasa-red-1667652223.jfif?resize=660:*' width='300' HSPACE='25' VSPACE='25'>
