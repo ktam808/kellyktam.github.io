@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_4203.jpeg
+image: img/ThreeInARowMakesAMoonTurnRose.png
 title: "Three in a Row Makes the Moon Turn Rose"
 date: 2022
 published: true
