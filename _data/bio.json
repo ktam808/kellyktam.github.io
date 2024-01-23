@@ -36,7 +36,7 @@
     },
     {
       "institution": "Hawaii Baptist Academy, Honolulu, HI",
-      "studyType": "High School Diploma"
+      "studyType": "High School Diploma",
       "startDate": "2018",
       "endDate": "2022",
       "courses": [
@@ -76,6 +76,12 @@
       "date": "2022-Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Distinction awarded to undergraduate students who (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
+      "title": "Let's Talk About Sex Exhibition - SP 23'",
+      "date": "2023",
+      "awarder": "WGSS/BIOL 350 - Dr. Shandhini Raidoo, Dr. Lisa M Vallin, and Planned Parenthood (Maui)",
+      "summary": "Won first place in an exhibition focused on promoting healthy sexual habits with a digitally published magazine."
     }
   ],
   "references": [
