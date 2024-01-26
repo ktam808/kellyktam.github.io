@@ -163,7 +163,19 @@ I hope I wont get ban haha
 ```
 Link to Question: [Python Guess the Word Game](https://stackoverflow.com/questions/75314329/python-guess-the-word-game)
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+While the question provides detailed information about the game and the issue faced, it falls short of being a completely smart question due to its length and complexity. A smart question ideally contains clear, concise details that allow others to understand and address the problem efficiently. To enhance the question's smartness:
+
+1. **Clarity and Brevity:** Trim unnecessary details and focus on the core issue. Clearly state the problem without delving into extensive code snippets or unrelated information.
+
+2. **Specificity:** Clearly articulate the problem you're facing. Instead of discussing the entire game structure, narrow down to the specific challenge, such as the issue with the variable refreshing when the user guesses a new letter.
+
+3. **Context:** Provide relevant context about the programming language being used and any specific error messages received. This assists those who may want to help you with a more accurate solution.
+
+4. **Format:** Use proper formatting to make the question more readable. Break down the code into smaller, digestible portions, and use indentation consistently.
+
+5. **Question at the End:** End the question with a concise, direct inquiry, asking for assistance or insights regarding the specific issue.
+
+Remember, the goal is to make it easier for others to comprehend and address your problem efficiently.
 
 ## Insights
 
