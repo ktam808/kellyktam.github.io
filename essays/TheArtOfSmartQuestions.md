@@ -15,7 +15,7 @@ labels:
 <img src="https://fhntoday.com/wp-content/uploads/2019/03/smarty-900x600.png">
 </div>
 
-## Is there such thing as a stupid question?
+## Questions, Questions, Questions
 
 As human beings, we are naturally curious and inquisitive creatures. From a young age, we ask questions to satisfy our curiosity and to gain a better understanding of the world around us. The ability to ask smart questions are an indispensable asset for software engineers, fostering effective communication, problem-solving, and collaboration within the developer community. By analyzing the characteristics of these questions, their adherence to smart question precepts, and the subsequent responses, we can gain valuable insights into the role of inquiry in the software engineering realm.
 
@@ -68,23 +68,103 @@ Link to Top Answer: [Top Answer](https://stackoverflow.com/a/11444416)
  
 This user has received a total of thirty eight different answers to their original question. The people who have answered the original questions were able to fully understand what was being asked and answer in a clear and concise manner. Alot of the answers were able to clarify what the difference was and even gave different examples of how "let" and "var" could be seperately used in code. 
 
-## The foolproof way to get ignored.
+## There are no such thing as bad questions...... Yes there is. 
 
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
 ```
-Q: Facebook Desktop Notifier
+Q: Python Guess the Word Game
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+Describing the game if you know what means word guessing dont bother to read
+Hey! I know I opened a question about that earlier but again Im stuck in another situation. I making a game that there is a list full of words and computer choses a random word in it. And program asking to person guess a letter. If it is in letter it should write the letter in exact order in that word. Lets say our word is word.
+If user input is "w", program will print "w___" and again
+if user says "o" program will print "wo__" like that.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+What is the issue?
+I did achieve to print if user input in that word and in which order in that word but when user guess again when he got right in first letter my print variable refreshing and prints just last guessed letter.
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+Let me explain
+My word again "word" and user guess "w" letter first.
+So program will print "w___" But when user guess again and lets say he/she guessed "o" this time. Program prints just "_.o__" but not w.
+
+What I want to do
+
+Program should keep the last data as "w___" and add "o" letter to second place.
+Program should have an if statment and two variables. First is guess_count and other is error_count.
+If player guessed right increase guess_count by one and
+if guess_count == 5 # word's total letter number: print("Win"), break the loop
+
+If player guessed wrong increase error_count by one and
+if error_count == 3 # if player type 3 wrong letter: print("Lose"), break the loop
+
+My code
+
+Create a loop
+
+    run = True
+    while run:
+Create a namelist and chose a random name
+
+   name_list = ["sound"]
+   pick_word = random.choice(name_list)
+Create a while loop again # whole code is under this
+
+while True:
+
+Get user input
+
+user_input = input("Guess a letter: ")
+
+Creating if statment if for if input len > 1 get error
+
+Whole if true code in there
+if len(user_input) == 1:
+*Create a variable that gets user input in order of word as number.
+(I cant say that sentence in english)
+
+index = pick_word.index(user_input)
+
+Replace the order number to user input
+
+word_tracker[index] = user_input
+
+Create a string to print it
+
+word = "".join(word_tracker)
+
+Print it
+
+print(word)
+
+Increase guess_count
+
+count += 1
+
+If guess_count is 5 break the loop
+
+if count == 5:
+
+If guess not in word
+
+  except ValueError:
+      print("You couldnt guess the letters.")
+      guessing += 1
+      if guessing == 3:
+          print("Peh")
+          exit()
+If guessed letter not 1 character
+
+else:
+   print("You allowed to type just one letter")
+`
+I hope I wont get ban haha
 ```
+Link to Question: [Python Guess the Word Game](https://stackoverflow.com/questions/75314329/python-guess-the-word-game)
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## Insights
 
 Analyzing these contrasting examples reveals that smart questions not only contribute to the efficiency of problem-solving but also impact the quality and willingness of responses. Smart questions attract more thoughtful and helpful answers, fostering a positive and collaborative environment within the developer community. Observing and understanding these questions underscores the importance of clear communication and thorough problem description. The smart question sets a positive tone for collaboration, encouraging others to engage constructively, while the not-so-smart question may deter potential helpers due to its lack of clarity and urgency.
+
+*Please note that I used ChatGPT to improve grammar and spelling in this document.*
