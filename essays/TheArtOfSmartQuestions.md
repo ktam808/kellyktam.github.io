@@ -65,14 +65,15 @@ function run() {
 
 run();
 
+.....
 ```
 Link to Top Answer: [Top Answer](https://stackoverflow.com/a/11444416)
  
 This user has received a total of thirty eight different answers to their original question. The people who have answered the original questions were able to fully understand what was being asked and answer in a clear and concise manner. Alot of the answers were able to clarify what the difference was and even gave different examples of how "let" and "var" could be seperately used in code. 
 
-## There are no such thing as bad questions...... Yes there is. 
+## The "Not so Smart" Questions
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+Not-so-smart questions are characterized by their lack of clarity, specificity, and context. These inquiries often fall short in providing sufficient details or background information, making it challenging for others to understand the issue at hand. Vague or ambiguous questions, without clear indications of the problem or attempts at resolution, can hinder the ability of potential helpers to provide accurate and helpful responses. Additionally, questions that demonstrate minimal effort in prior research or troubleshooting may be perceived as not-so-smart, as they may overlook readily available resources. Such inquiries may lead to frustration for both the asker and those attempting to assist, highlighting the importance of crafting questions that are clear, concise, and demonstrate a proactive approach to problem-solving. 
 
 ```
 Q: Python Guess the Word Game
