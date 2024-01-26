@@ -11,7 +11,9 @@ labels:
   - StackOverflow
 ---
 
+<div align="center">
 <img src="https://fhntoday.com/wp-content/uploads/2019/03/smarty-900x600.png">
+</div>
 
 ## Is there such thing as a stupid question?
 
