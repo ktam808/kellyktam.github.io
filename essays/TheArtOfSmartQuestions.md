@@ -4,7 +4,7 @@ type: essay
 title: "The Art of Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: false
+published: true
 labels:
   - Questions
   - Answers
