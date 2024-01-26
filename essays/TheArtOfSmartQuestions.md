@@ -19,7 +19,7 @@ labels:
 
 ## Questions, Questions, Questions
 
-As human beings, we are naturally curious and inquisitive creatures. From a young age, we ask questions to satisfy our curiosity and to gain a better understanding of the world around us. The ability to ask smart questions are an indispensable asset for software engineers, fostering effective communication, problem-solving, and collaboration within the developer community. By analyzing the characteristics of these questions, their adherence to smart question precepts, and the subsequent responses, we can gain valuable insights into the role of inquiry in the software engineering realm.
+As human beings, we are naturally curious and inquisitive creatures. From a young age, we ask questions to satisfy our curiosity and to gain a better understanding of the world around us. The ability to ask smart questions is an indispensable asset for software engineers, fostering effective communication, problem-solving, and collaboration within the developer community. By analyzing the characteristics of these questions, their adherence to smart question precepts, and the subsequent responses, we can gain valuable insights into the role of inquiry in the software engineering realm.
 
 ## What’s a smart question?
 
@@ -65,15 +65,14 @@ function run() {
 
 run();
 
-.....
 ```
 Link to Top Answer: [Top Answer](https://stackoverflow.com/a/11444416)
  
-This user has received a total of thirty eight different answers to their original question. The people who have answered the original questions were able to fully understand what was being asked and answer in a clear and concise manner. Alot of the answers were able to clarify what the difference was and even gave different examples of how "let" and "var" could be seperately used in code. 
+This user has received a total of thirty-eight different answers to their original question. The people who have answered the original questions were able to fully understand what was being asked and answer in a clear and concise manner. A lot of the answers were able to clarify what the difference was and even gave different examples of how "let" and "var" could be separately used in code.
 
 ## The "Not so Smart" Questions
 
-Not-so-smart questions are characterized by their lack of clarity, specificity, and context. These inquiries often fall short in providing sufficient details or background information, making it challenging for others to understand the issue at hand. Vague or ambiguous questions, without clear indications of the problem or attempts at resolution, can hinder the ability of potential helpers to provide accurate and helpful responses. Additionally, questions that demonstrate minimal effort in prior research or troubleshooting may be perceived as not-so-smart, as they may overlook readily available resources. Such inquiries may lead to frustration for both the asker and those attempting to assist, highlighting the importance of crafting questions that are clear, concise, and demonstrate a proactive approach to problem-solving. 
+Not-so-smart questions are characterized by their lack of clarity, specificity, and context. These inquiries often fall short in providing sufficient details or background information, making it challenging for others to understand the issue at hand. Vague or ambiguous questions, without clear indications of the problem or attempts at resolution, can hinder the ability of potential helpers to provide accurate and helpful responses. Additionally, questions that demonstrate minimal effort in prior research or troubleshooting may be perceived as not-so-smart, as they may overlook readily available resources. Such inquiries may lead to frustration for both the asker and those attempting to assist, highlighting the importance of crafting questions that are clear, concise, and demonstrate a proactive approach to problem-solving. An example of this could be the following user's question.
 
 ```
 Q: Python Guess the Word Game
@@ -164,7 +163,7 @@ I hope I wont get ban haha
 ```
 Link to Question: [Python Guess the Word Game](https://stackoverflow.com/questions/75314329/python-guess-the-word-game)
 
-While the question provides detailed information about the game and the issue faced, it falls short of being a completely smart question due to its length and complexity. A smart question ideally contains clear, concise details that allow others to understand and address the problem efficiently. To enhance the question's smartness:
+While the question provides detailed information about the game and the issue faced, it falls short of being a completely smart question due to its length and complexity. A smart question ideally contains clear, concise details that allow others to understand and address the problem efficiently. To enhance the question's smartness, the user could:
 
 1. **Clarity and Brevity:** Trim unnecessary details and focus on the core issue. Clearly state the problem without delving into extensive code snippets or unrelated information.
 
