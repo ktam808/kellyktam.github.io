@@ -52,6 +52,8 @@ while True:
 camera.close()
 ```
 
+<br>
+
 ## Object Detection
 Zumi's advanced capabilities are heightened by its array of six Infrared (IR) sensors, strategically positioned across its structure. These sensors play a crucial role in Zumi's environmental perception, with each sensor meticulously indexed for ease of data interpretation. Specifically, IR 0 is located at the front right, IR 1 at the bottom right, IR 2 at the back right, IR 3 at the bottom left, IR 4 at the back left, and IR 5 at the front left. This organized configuration enables Zumi to precisely retrieve data from various directions, enhancing its intelligent responsiveness to the surrounding environment. Infrared, a form of electromagnetic radiation beyond the visible spectrum, serves as the medium for these sensors. While it may sound ominous, not all electromagnetic radiation is harmful. Visible light, a small portion of this spectrum, is what humans can perceive, with different colors corresponding to varying wavelengths. Zumi's IR sensors, adept at detecting waves beyond the visible spectrum, are integral to identifying objects that obstruct their path.
 ```cpp
@@ -70,6 +72,8 @@ while 1 == 1:
   if back_right_ir < 50:
     zumi.foward()
 ```
+
+<br>
 
 ## Insights
 While our project achieved some success, certain underlying issues persisted. Notably, a challenge emerged with the color blue, as the Zumi exhibited difficulties in accurate color detection. It consistently perceived blue even when there was no object present, or occasionally detected blue even in the presence of a different color. Additionally, a notable problem arose where the Zumi failed to initiate movement, even in the presence of an obstacle. We suspect that this issue may be rooted in a potential error within the camera or sensor functionality. Addressing these challenges will require further investigation and potentially refining the code or troubleshooting the hardware components to ensure optimal performance.
