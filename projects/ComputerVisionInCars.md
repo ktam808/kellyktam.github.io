@@ -33,7 +33,7 @@ In order to acheive our goal, we decided to use Robolink Zumi Ai Robots. The Rob
 ## Color Detection
 In this captivating project with the Robolink Zumi AI Robot Car, the goal was to leverage the power of Zumi's camera to capture a diverse array of images showcasing favorite colors. The subsequent step involved coding to extract valuable color information, facilitating the labeling of each distinct color. The project further delved into the exciting realm of machine learning, where a model was trained on the color data, enabling Zumi to autonomously identify and categorize colors. Whether it was the vibrant hues of red, blue, or green, the trained model became a powerful tool to discern and react to each color uniquely. This hands-on exploration not only provided insight into computer vision principles but also opened the door for programming Zumi to exhibit different behaviors based on the recognized colors, resulting in a delightful and interactive experience.
 
-<img align='right' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/ColorDetectionGraph.png' HSPACE='20' VSPACE='20' width='600'>
+<img align='right' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/ColorDetectionGraph.png' HSPACE='20' VSPACE='20' width='400'>
 
 ```cpp
 ﻿zumi.mpu.calibrate_MPU()
