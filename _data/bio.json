@@ -14,6 +14,7 @@
     ]
   },
   "interests": [
+    { "name": "Artificial Intelligence (AI)" },
     { "name": "Software Engineering" },
     { "name": "Computer Vision" },
     { "name": "Robotics" }
@@ -22,6 +23,10 @@
     {
       "name": "Programming Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
+    },
+     {
+      "name": "Toolsets/OS",
+      "keywords": [ "Excel", "Git/GitHub", "Microsoft","Powerpoint", "Windows" ]
     },
     {
     "name": "Foreign Languages",
