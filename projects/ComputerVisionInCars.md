@@ -11,7 +11,9 @@ labels:
   - Python
 summary: "In collaboration with a dynamic team of individuals, including Anthony Lau, Briana Lee, Jarren Seson, and Joel Vanta, this initiative delved into the realm of computer vision within the automotive industry, particularly focusing on its application in self-driving cars. "
 ---
-<div><img align='center' src='https://miro.medium.com/v2/1*s9raSe9mLeSSuxE3API-ZA.gif' HSPACE='20' VSPACE='20' width='700'></div>
+<p align="center">
+  <img src='https://miro.medium.com/v2/1*s9raSe9mLeSSuxE3API-ZA.gif' />
+</p>
 
 ## What is Computer Vision?
 Computer vision is a multidisciplinary field dedicated to empowering computers with the ability to comprehend and interpret visual data, such as images and videos. Its objective is to mimic the human visual system, enabling machines to extract meaningful information from visual inputs. This involves the development of algorithms and models for tasks like image classification, where computers assign labels to images; object detection, which involves locating and identifying multiple objects in an image; and image segmentation, the process of dividing an image into distinct segments. Computer vision applications span various domains, including healthcare, autonomous vehicles, surveillance, and robotics, leveraging techniques from image processing, machine learning, and artificial intelligence to facilitate the understanding and interpretation of the visual world.
