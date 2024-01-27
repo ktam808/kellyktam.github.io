@@ -30,7 +30,7 @@ In this captivating project with the Robolink Zumi AI Robot Car, the goal was to
 
 <img align='right' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/ColorDetectionGraph.png' HSPACE='20' VSPACE='20' width='500'>
 
-```cpp
+```python
 ﻿zumi.mpu.calibrate_MPU()
 camera.start_camera()
 
@@ -51,7 +51,7 @@ camera.close()
 
 ## Object Detection
 Zumi's advanced capabilities are heightened by its array of six Infrared (IR) sensors, strategically positioned across its structure. These sensors play a crucial role in Zumi's environmental perception, with each sensor meticulously indexed for ease of data interpretation. Specifically, IR 0 is located at the front right, IR 1 at the bottom right, IR 2 at the back right, IR 3 at the bottom left, IR 4 at the back left, and IR 5 at the front left. This organized configuration enables Zumi to precisely retrieve data from various directions, enhancing its intelligent responsiveness to the surrounding environment. Infrared, a form of electromagnetic radiation beyond the visible spectrum, serves as the medium for these sensors. While it may sound ominous, not all electromagnetic radiation is harmful. Visible light, a small portion of this spectrum, is what humans can perceive, with different colors corresponding to varying wavelengths. Zumi's IR sensors, adept at detecting waves beyond the visible spectrum, are integral to identifying objects that obstruct their path.
-```cpp
+```python
 while 1 == 1:
   ir_readings = zumi.get_all_IR_data()
   back_right_ir = ir_readings[2]
