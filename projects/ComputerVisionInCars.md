@@ -22,7 +22,7 @@ Computer vision is a multidisciplinary field dedicated to empowering computers w
 The primary objectives of our project were threefold. Firstly, we aimed to showcase the applications of computer vision, particularly in the context of self-driving vehicles, to those who may not be familiar with its use. Secondly, our goal was to disseminate knowledge and provide accessible insights into the fundamentals of computer vision for a broader audience. Lastly, we sought to establish a secure environment for testing and implementing real-world applications, ensuring practicality and safety in our endeavors.<br>
 
 ## Zumi Bots
-<img align='left' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/ZumiBot.png' width='150' HSPACE='20' VSPACE='20'>
+<img align='left' src='https://raw.githubusercontent.com/ktam808/ktam808.github.io/main/img/ZumiBot.png' width='150' HSPACE='10' VSPACE='10'>
 In order to acheive our goal, we decided to use Robolink Zumi Ai Robots. The Robolink Zumi AI Robot Car is an educational robotics kit designed for hands-on learning in programming, artificial intelligence, and computer vision. Equipped with a camera and various sensors, the small robot car enables users to engage in practical exercises such as recognizing objects, following lines, and detecting obstacles. The programming interface, based on the Python language, empowers users to control the robot's movements and implement AI algorithms. With a focus on providing educational resources and tutorials, the kit caters to beginners, offering step-by-step guidance for those interested in exploring real-world applications of robotics and AI concepts.<br>
 
 ## Color Detection
