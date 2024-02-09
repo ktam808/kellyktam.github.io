@@ -32,5 +32,7 @@ Coding standards aren't set in stone; they're more like living documents that ev
 In the end, coding standards are not just about code—they're about people. They're about creating a community where developers can communicate effectively, learn from each other, and build amazing things together. So, let's embrace coding standards not as burdensome rules but as tools that empower us to write better code, learn more deeply, and connect more meaningfully with our fellow developers.
 
 In reflecting on my own journey with coding standards, I realized the profound impact they had on my growth as a developer. With each line of code written, each standard followed, I felt myself becoming not just a better coder, but a better communicator, collaborator, and learner. And for that, I am grateful.
+
 <br>
+
 *Please note that I used ChatGPT to improve grammar and spelling in this document.*
