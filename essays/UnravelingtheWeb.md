@@ -10,8 +10,9 @@ labels:
   - BootStrap 5
   - Coding
 ---
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/529896566?h=2ebbf42511" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div align="center">
+<img src='https://player.vimeo.com/video/529896566?h=2ebbf42511' width='1000' HSPACE='30' VSPACE='30'> 
+</div>
 
 ## Introduction
 
