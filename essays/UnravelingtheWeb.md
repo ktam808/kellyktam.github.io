@@ -11,7 +11,7 @@ labels:
   - Coding
 ---
 <div align="center">
-<img src='https://player.vimeo.com/video/529896566?h=2ebbf42511' width='1000' HSPACE='30' VSPACE='30'> 
+<img src='https://images.squarespace-cdn.com/content/v1/50ff1acce4b047a6c7999c73/1616911689753-BB6EIC54WK22DKAOYD52/In_The_Zone_Dribbble_.gif?format=300w' width='500' HSPACE='30' VSPACE='30'> 
 </div>
 
 ## Introduction
