@@ -35,8 +35,6 @@ With our user-friendly interface and powerful features, you can effortlessly cre
 
 But that's not all – "Super Scheduler" goes beyond traditional scheduling tools by offering intelligent algorithms and predictive analytics to optimize your study sessions and enhance your performance. Say goodbye to last-minute cramming and hello to strategic, efficient study habits that yield tangible results.
 
-Join the countless students and educators who have already revolutionized their exam experience with "Super Scheduler". Fear no more, and unlock your full potential today!
-
 Ready to take control of your academic success? Sign up now for a free trial and experience the difference firsthand. With "Super Scheduler", achieving excellence has never been easier. Try it now and fear no more!
 
 ## Mockup page ideas
