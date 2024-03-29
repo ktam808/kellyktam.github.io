@@ -24,7 +24,7 @@ Members:
 
 ## Project Ideas:
 1. Exam Study Schedule Creator --> "Super Scheduler"
-2. Update UH Manoa Webiste --> "Super Manoa" [Backup Plan]
+2. Update UH Manoa Website --> "Super Manoa" [Backup Plan]
    
 ## Overview (including “The problem” and “The solution”)
 Are you tired of the stress and uncertainty surrounding exam schedules? Say goodbye to chaotic planning and welcome a new era of organization and confidence with "Super Scheduler"!
@@ -51,14 +51,14 @@ Ready to take control of your academic success? Sign up now for a free trial and
 
 ## Use case ideas
 1. "Super Scheduler"
-- New User goes to landing pare, logs in, gers to the home page, sets up a profile
+- New User goes to landing page, logs in, gets to the home page, sets up a profile
 - Admin goes to landing page, logs in, gets home page, edits site
 - User goes to landing page, logs in, creates their schedule, selects study session options, shows calendar page
 
 ## Beyond the basics
 1. "Super Scheduler"
 - Text Message / Notification Interface. Reply to confirm attendance all through messages
-- Facitilite notification and organaization of study times
+- Facilitate notification and organization of study times
 - History of Study Sessions
-- Options to swtich/change study plans
+- Options to switch/change study plans
 - Rating System of current/past study plans
