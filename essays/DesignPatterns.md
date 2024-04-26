@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Symphony of Code: Design Patterns as Musical Notes
+title: "Symphony of Code: Design Patterns as Musical Notes"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
