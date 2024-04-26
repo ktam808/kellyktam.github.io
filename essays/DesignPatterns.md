@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Symphony of Code: Design Patterns as Musical Notes
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -11,10 +11,8 @@ labels:
   - Software Design
 ---
 <div align="center">
-<img src='https://64.media.tumblr.com/351fb8a16dfd805f5614b3ec7e8d6490/02f4920553367480-85/s1280x1920/54e53cafb2754f3e38080d98d6102a87091e1b5b.gif' width='1000' HSPACE='30' VSPACE='30'> 
+<img src='https://townhallseattle.org/wp-content/uploads/2023/07/solstice-.png' width='1000' HSPACE='30' VSPACE='30'> 
 </div>
-
-## Symphony of Code: Design Patterns as Musical Notes
 
 In the grand orchestra of software development, design patterns assume the role of musical notes, harmonizing to create a symphony of elegant and efficient code. Just as a composer carefully selects notes to evoke emotion and convey meaning, developers employ design patterns as the building blocks of software architecture, orchestrating solutions to complex problems with precision and artistry.
 
