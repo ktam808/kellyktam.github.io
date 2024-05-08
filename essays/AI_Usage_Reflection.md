@@ -54,7 +54,7 @@ I seek coding examples not only in ICS 314 but also in my other classes. When I 
 Sometimes, when I review coding answers or examples, I get confused. If I recognize how my code should look or understand the expected outcome, I try to grasp the explanation thoroughly. For any parts I don't fully understand, I may input them into a chatbot and ask for clarification on why that specific code was used and what its purpose is.
 
   11. Writing code <br>
-A great example of this is the final project. When I struggled to understand how to work with FullCalendar's design components, I turned to ChatGPT. I asked it to write code for me that would modify specific areas of the calendar.
+A great example of this is the final project. When I struggled to understand how to work with FullCalendar's design components, I turned to ChatGPT. I asked it to write code for me that would modify specific areas of the calendar like the display bar, event colors, and background. 
 
   12. Documenting code <br>
 Since I want to understand what my code does in my own words, I don't usually turn to AI or chatbots to write code documentations. I think it would confuse me down the line cause my understanding of the code and the way that I word it to my understanding would get confused by how a chatbot might write it. 
