@@ -14,7 +14,11 @@ labels:
 </div>
 
 ### I. Introduction
-Artificial Intelligence (AI) has rapidly transformed the landscape of education, particularly in technical disciplines like Software Engineering. In courses such as ICS 314, the integration of AI tools and methodologies has revolutionized the learning experience, offering students unprecedented opportunities for exploration, experimentation, and innovation. As we navigate the complexities of modern software development, AI has become an indispensable ally, accelerating knowledge acquisition, fostering creative problem-solving approaches, and enriching comprehension through diverse perspectives. In this essay, I will delve into my personal journey with AI in ICS 314, detailing the specific tools and methodologies utilized and examining their profound implications on my learning, understanding, and application of software engineering principles.
+AI has played a transformative role in modern education, particularly in fields like software engineering, where innovation and efficiency are essential. AI technologies provide personalized learning experiences, real-time feedback, and access to diverse knowledge sources, enhancing both the teaching and learning processes. In software engineering, AI-driven tools and methods streamline tasks such as code review, testing, and debugging, as well as offering intelligent coding suggestions and solutions to complex problems.
+
+In the course ICS 314, the integration of AI has been particularly impactful. I have used various AI tools to support my learning and coursework. [ChatGPT](https://chatgpt.com/),for example, has been an invaluable resource for clarifying concepts, providing coding assistance, and double-checking spelling and grammar in my writing. [Poe](https://poe.com/), another AI platform, has offered diverse perspectives and explanations for different coding methodologies. Additionally, [blackbox.ai](https://www.blackbox.ai/) has provided real-time coding suggestions and assistance, helping me write code more efficiently and effectively.
+
+By leveraging these AI tools, my understanding of software engineering principles has deepened, and my ability to tackle complex coding challenges has improved. Overall, AI has enhanced my learning experience in ICS 314 and equipped me with the skills necessary to excel in the evolving field of software engineering.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
