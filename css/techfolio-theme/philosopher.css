@@ -7,8 +7,8 @@
   --bs-font-sans-serif: "Philosopher", sans-serif;
   --bs-link-color: #007bff; /* Blue link color */
   --tf-pill-bg: #17a2b8; /* Blue */
-  --tf-icon-fill: #dc3545; /* Red */
-  --tf-icon-hover: #fd7e14; /* Orange */
+  --tf-icon-fill: var(--bs-gray);
+  --tf-icon-hover:  #dc3545; /* Red */
   --tf-page-bg-color: #f8f9fa; /* Light grayish-blue background */
   --tf-footer-bg-color: #f8d7da; /* Light red background */
   --tf-projects-bg-color: #fff3cd; /* Light orange background */
