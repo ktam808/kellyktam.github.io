@@ -5,13 +5,14 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --bs-font-sans-serif: "Philosopher", sans-serif;
-  --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--bs-gray);
-  --tf-icon-fill: var(--bs-gray);
-  --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: #fdf6e3; /* Light yellow background */
-  --tf-footer-bg-color: #f8edda; /* Light orange background */
-  --tf-projects-bg-color: #fafafa; /* Light gray background */
+  --bs-link-color: #007bff; /* Blue link color */
+  --tf-pill-bg: #17a2b8; /* Blue */
+  --tf-icon-fill: #dc3545; /* Red */
+  --tf-icon-hover: #fd7e14; /* Orange */
+  --tf-page-bg-color: #f8f9fa; /* Light grayish-blue background */
+  --tf-footer-bg-color: #f8d7da; /* Light red background */
+  --tf-projects-bg-color: #fff3cd; /* Light orange background */
+  --tf-header-bg-color: #cce5ff; /* Light blue background for header */
 }
 
 /* Format social media icons */
@@ -30,6 +31,20 @@
 
 a {
   text-decoration: none;
+}
+
+/* Header styling */
+.header {
+  background-color: var(--tf-header-bg-color);
+  padding: 20px;
+  /* Add any additional styling you want for the header */
+}
+
+/* Footer styling */
+.footer {
+  background-color: var(--tf-footer-bg-color);
+  padding: 20px;
+  /* Add any additional styling you want for the footer */
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
