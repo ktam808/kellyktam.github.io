@@ -1,17 +1,17 @@
-/* Bitter Theme: modifies the default theme to use Bitter as the default font. */
+/* Philosopher Theme: modifies the default theme to use Bitter as the default font. */
 
-@import url("https://fontesk.com/ashfiana-font/");
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --bs-font-sans-serif: "Ashfiana", sans-serif;
+  --bs-font-sans-serif: "Philosopher", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-page-bg-color: #f8f9fa; /* Light grayish-blue background */
+  --tf-footer-bg-color: #e9ecef; /* Light gray background */
+  --tf-projects-bg-color: #f3f4f6; /* Light grayish background */
 }
 
 /* Format social media icons */
