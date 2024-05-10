@@ -9,9 +9,9 @@
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: #f8f9fa; /* Light grayish-blue background */
-  --tf-footer-bg-color: #e9ecef; /* Light gray background */
-  --tf-projects-bg-color: #f3f4f6; /* Light grayish background */
+  --tf-page-bg-color: #fdf6e3; /* Light yellow background */
+  --tf-footer-bg-color: #f8edda; /* Light orange background */
+  --tf-projects-bg-color: #fafafa; /* Light gray background */
 }
 
 /* Format social media icons */
