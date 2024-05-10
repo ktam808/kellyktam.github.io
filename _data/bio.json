@@ -45,11 +45,9 @@
     },
     {
       "institution": "Hawaii Baptist Academy, Honolulu, HI",
-      "studyType": "High School Diploma",
+      "studyType": "High School Diploma"
       "startDate": "2018",
-      "endDate": "2022",
-      "courses": [
-      ]
+      "endDate": "2022"
     }
   ],
   "work": [
