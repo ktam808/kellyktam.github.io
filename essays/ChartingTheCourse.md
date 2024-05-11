@@ -9,6 +9,9 @@ labels:
   - Software Engineering
   - Learning
 ---
+<div align="center">
+<img src='https://www.ventivtech.com/hubfs/Website_2020/3Sixty-2020/Charting-the-Course/Charting-Course-bg-anim.gif' width='500' HSPACE='30' VSPACE='30'> 
+</div>
 
 In the realm of software engineering, my passion is fueled by the dynamic interplay between creativity and problem-solving. The prospect of crafting elegant solutions to complex challenges, coupled with the ever-evolving nature of technology, serves as a perpetual wellspring of inspiration for me.
 
