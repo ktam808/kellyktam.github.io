@@ -11,7 +11,7 @@ labels:
   - Software Design
 ---
 <div align="center">
-<img src='https://townhallseattle.org/wp-content/uploads/2023/07/solstice-.png' width='1000' HSPACE='30' VSPACE='30'> 
+<img src='https://townhallseattle.org/wp-content/uploads/2023/07/solstice-.png' width='600' HSPACE='30' VSPACE='30'> 
 </div>
 
 In the grand orchestra of software development, design patterns assume the role of musical notes, harmonizing to create a symphony of elegant and efficient code. Just as a composer carefully selects notes to evoke emotion and convey meaning, developers employ design patterns as the building blocks of software architecture, orchestrating solutions to complex problems with precision and artistry.
