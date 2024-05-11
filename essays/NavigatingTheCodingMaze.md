@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 <div align="center">
-<img src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d' width='600' HSPACE='30' VSPACE='30'> 
+<img src='https://giphy.com/embed/ACLCA6bvwBEvC' width='600' HSPACE='30' VSPACE='30'> 
 </div>
 Coding standards, those little rules about how to format your code, often get a bad rap. But trust me, they're not just about nitpicking indentation or where to put your curly braces. They're like the guiding stars in the night sky of software development, leading us toward better code and deeper understanding of programming languages. Let me take you on a journey through the world of coding standards, from their importance in learning to their practical application with tools like ESLint in IntelliJ.
 
