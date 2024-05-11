@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Exploring Software Engineering Beyond Web Development"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-05-09
 published: true
 labels:
   - Design Patterns
