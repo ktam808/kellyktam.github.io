@@ -10,7 +10,9 @@ labels:
   - BootStrap 5
   - Coding
 ---
-<img align="left" src='https://github.com/ktam808/ktam808.github.io/blob/main/img/UI-GIF.gif?raw=true' width='300' HSPACE='30' VSPACE='30'> 
+<div align="center">
+<img src='https://github.com/ktam808/ktam808.github.io/blob/main/img/UI-GIF.gif?raw=true' width='300' HSPACE='30' VSPACE='30'> 
+</div>
 
 ## Introduction
 In the realm of web development, the utilization of UI frameworks has become a cornerstone for creating modern, visually appealing, and responsive websites. However, diving into the world of UI frameworks can feel like embarking on a daunting journey, akin to mastering a new programming language. Questions arise regarding the necessity of investing time and effort into learning frameworks like Bootstrap 5. Why not stick to raw HTML and CSS? What are the tangible benefits that justify the frustration and learning curve associated with UI frameworks? In this essay, we'll unravel the intricacies of UI frameworks, exploring their significance, benefits, and the role they play in modern software engineering.
