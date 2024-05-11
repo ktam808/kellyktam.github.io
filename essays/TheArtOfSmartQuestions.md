@@ -13,6 +13,7 @@ labels:
 
 <div align="center">
 <img src="https://fhntoday.com/wp-content/uploads/2019/03/smarty-900x600.png" width='600' HSPACE='30' VSPACE='30'>
+</div>
 <br>
 
 ## Questions, Questions, Questions
