@@ -10,7 +10,7 @@ labels:
   - FullCalendar
   - Web Development
   - Academic Collaboration
-summary: "StudyLink is a collaborative platform crafted to foster academic collaboration, featuring group creation, study session scheduling, and user-friendly interfaces to aid students in forming study groups and advancing their educational endeavors."
+summary: "StudyLink, a web platform, fosters academic collaboration through group creation, study session scheduling, and user-friendly interfaces, supporting students in their educational journey."
 ---
 <p align="center">
   <img src='https://phoenix-codecrafters.github.io/doc/LandingPage.png' HSPACE='20' VSPACE='20' width='900'>
