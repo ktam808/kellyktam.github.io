@@ -11,7 +11,7 @@ labels:
   - Coding
 ---
 <div align="center">
-<img src='https://github.com/ktam808/ktam808.github.io/blob/main/img/UI-GIF.gif' width='500' HSPACE='30' VSPACE='30'> 
+<img src='https://github.com/ktam808/ktam808.github.io/blob/main/img/UI-GIF.gif?raw=true' width='500' HSPACE='30' VSPACE='30'> 
 </div>
 
 ## Introduction
