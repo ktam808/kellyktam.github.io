@@ -40,7 +40,14 @@
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
-      "courses": [ "ICS 111 - Introduction to Computer Science I (Java Programming)", "ICS 211 - Introduction to Computer Science II (Data Structures)", "ICS 212 - Program Structure", "ICS 141 - Discrete Mathematics I", "ICS 241 - Discrete Mathematics II", "ICS 311 - Algorithms", "ICS 314 - Software Engineering I" ]
+      "courses": [ 
+        "ICS 111 - Introduction to Computer Science I (Java Programming)", 
+        "ICS 211 - Introduction to Computer Science II (Data Structures)", 
+        "ICS 212 - Program Structure", 
+        "ICS 141 - Discrete Mathematics I", 
+        "ICS 241 - Discrete Mathematics II", 
+        "ICS 311 - Algorithms", 
+        "ICS 314 - Software Engineering I" ]
     }
   ],
   "work": [
