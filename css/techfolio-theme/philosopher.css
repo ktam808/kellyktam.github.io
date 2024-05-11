@@ -9,7 +9,7 @@
   --tf-purple2: #9e8eb6;
   --tf-purple3: #c0b2d9;
   --tf-purple4: #e4d6f1;
-  --bs-font-sans-serif: "Philosopher", sans-serif;
+  --bs-font-sans-serif: "Mulish", sans-serif;
   --bs-link-color: var(--tf-purple1);
   --tf-pill-bg: var(--tf-purple3);
   --tf-icon-fill: var(--tf-purple1);
@@ -21,7 +21,7 @@
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-purple1);
-  font-family: "Mulish", sans-serif;
+  font-family: "Philosopher", sans-serif;
 }
 
 /* Format social media icons */
