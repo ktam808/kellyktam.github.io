@@ -12,7 +12,7 @@ labels:
 summary: "In collaboration with a dynamic team of individuals, including Anthony Lau, Briana Lee, Jarren Seson, and Joel Vanta, this initiative delved into the realm of computer vision within the automotive industry, particularly focusing on its application in self-driving cars. "
 ---
 <p align="center">
-  <img src='https://miro.medium.com/v2/1*s9raSe9mLeSSuxE3API-ZA.gif' HSPACE='20' VSPACE='20' width='900'>
+  <img src='https://miro.medium.com/v2/1*s9raSe9mLeSSuxE3API-ZA.gif' HSPACE='20' VSPACE='20' width='600'>
 </p>
 
 ## What is Computer Vision?
