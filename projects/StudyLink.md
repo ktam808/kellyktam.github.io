@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/StudyLink.png
-title: "StudyLink"
+title: "StudyLink: Empowering Academic Collaboration and Support"
 date: 2024
 published: true
 labels:
@@ -15,8 +15,7 @@ summary: "StudyLink is a web platform created by a dedicated team to facilitate 
 <p align="center">
   <img src='https://phoenix-codecrafters.github.io/doc/LandingPage.png' HSPACE='20' VSPACE='20' width='900'>
 </p>
-
-# StudyLink: Empowering Academic Collaboration and Support
+<br/>
 As the creators of StudyLink, our team embarked on a journey to revolutionize the way students collaborate and support each other in their academic pursuits. StudyLink is not just a platform; it's a manifestation of our dedication to enhancing the educational experience for students worldwide. This summary encapsulates the essence of StudyLink, chronicling its inception, development process, user-interface guide, community feedback, and future aspirations.
 
 ## Inception:
@@ -32,9 +31,7 @@ The user-interface guide served as a blueprint for bringing our vision to life. 
 Our journey with StudyLink would not have been complete without the invaluable feedback from our community. Through rigorous testing and user feedback sessions, we gained insights that shaped the evolution of StudyLink. Users praised the platform for its functionality, visual appeal, and potential to support students in their academic journey. Constructive suggestions provided us with valuable guidance for future enhancements, reaffirming our commitment to continuous improvement.
 
 ## Database Integration and Event Management
-<p align="left">
-  <img src='https://phoenix-codecrafters.github.io/doc/CalendarPage.png' HSPACE='20' VSPACE='20' width='500'>
-</p>
+<img align='left' src='https://phoenix-codecrafters.github.io/doc/CalendarPage.png' width='300' HSPACE='20' VSPACE='20'> 
 
 Within the collaborative efforts of the StudyLink team, I worked closely with another team member to implement a crucial aspect of our platform: the integration of [FullCalendar](https://fullcalendar.io/). This joint effort required meticulous attention to detail and a deep understanding of both backend data management and frontend user interface design.
 
