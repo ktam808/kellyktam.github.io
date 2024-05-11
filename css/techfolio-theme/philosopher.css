@@ -1,24 +1,33 @@
 /* Philosopher Theme: modifies the default theme to use Bitter as the default font. */
 
 @import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-purple1: #7a6c9d;
+  --tf-purple2: #9e8eb6;
+  --tf-purple3: #c0b2d9;
+  --tf-purple4: #e4d6f1;
   --bs-font-sans-serif: "Philosopher", sans-serif;
-  --bs-link-color: #007bff; /* Blue link color */
-  --tf-pill-bg: #17a2b8; /* Blue */
-  --tf-icon-fill: var(--bs-gray);
-  --tf-icon-hover:  #dc3545; /* Red */
-  --tf-page-bg-color: #f8f9fa; /* Light grayish-blue background */
-  --tf-footer-bg-color: #f8d7da; /* Light red background */
-  --tf-projects-bg-color: #fff3cd; /* Light orange background */
-  --tf-header-bg-color: #cce5ff; /* Light blue background for header */
+  --bs-link-color: var(--tf-purple1);
+  --tf-pill-bg: var(--tf-purple3);
+  --tf-icon-fill: var(--tf-purple1);
+  --tf-icon-hover: var(--tf-purple3);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-purple4);
+  --tf-projects-bg-color: var(--tf-purple4);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-purple1);
+  font-family: "Mulish", sans-serif;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-purple1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -33,22 +42,8 @@ a {
   text-decoration: none;
 }
 
-/* Header styling */
-.header {
-  background-color: var(--tf-header-bg-color);
-  padding: 20px;
-  /* Add any additional styling you want for the header */
-}
-
-/* Footer styling */
-.footer {
-  background-color: var(--tf-footer-bg-color);
-  padding: 20px;
-  /* Add any additional styling you want for the footer */
-}
-
-/* Simplify the styling of the bottom of Essay cards. */
-.card-footer {
-  background-color: var(--bs-white);
-  border-top: none;
+.rounded-circle {
+  border-color: var(--tf-purple1);
+  border-style: solid;
+  border-width: 1px;
 }
